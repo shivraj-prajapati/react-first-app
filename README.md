@@ -24,7 +24,7 @@ Ensure that Node.js and npm are installed:
 
 Installation
 1. Clone the repo:
-   git clone https://github.com/shivraj-prajapati/react-todo-app.git
+   git clone https://github.com/shivraj-prajapati/react-first-app.git
 2. Navigate to the project folder:
    cd react-todo-app
 3. Install dependencies:
@@ -90,9 +90,6 @@ Feel free to fork, make changes, and submit a pull request. Contributions are al
 
 🐛 Known Issues
 - Todos are not stored persistently (will be cleared on refresh).
-
-📄 License
-MIT License - see the LICENSE file for more details.
 
 ---
 
