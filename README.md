@@ -93,4 +93,4 @@ Feel free to fork, make changes, and submit a pull request. Contributions are al
 
 ---
 
-Explore, customize, and enjoy managing your tasks with React Todo App! 😊
+Explore, customize, and enjoy managing your tasks with React Simple Todo App! 😊
